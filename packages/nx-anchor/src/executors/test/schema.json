@@ -13,6 +13,11 @@
       "type": "boolean",
       "description": "Print logs from command",
       "default": false
+    },
+    "skipLocalValidator": {
+      "type": "boolean",
+      "description": "Skip local validator",
+      "default": false
     }
   },
   "required": []
